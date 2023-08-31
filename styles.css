@@ -1,14 +1,20 @@
 h1 {
     color: black;
     font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 900;
     text-align: center;
 }
 
 li {
-    color: red;
-    background-color: white;
+    
+    background-color: rgb(207, 224, 160);
     font-size:20px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 40px;
+    padding: 10px;
 }
